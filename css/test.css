@@ -16,9 +16,10 @@
 }
 
 body {
+    max-width: 90%;
     margin: 0;
     font-family: 'Arial', sans-serif;
-    background: linear-gradient(135deg, #ff4500, #ffa07a);
+    background: linear-gradient(to top, #ffc700, #fee400, #ce422b);
     color: #fff5ee;
     overflow-x: hidden;
     animation: fadeIn 1.5s ease-in-out;
