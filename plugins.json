@@ -1,0 +1,68 @@
+[
+    {
+        "name": "XPeriance",
+        "image": "https://assets.umod.org/images/icons/plugin/61b5ebcdc8ccd.png",
+        "documentationLink": "https://umod.org/plugins/xperience"
+    },
+    {
+        "name": "XPerienceAddon",
+        "image": "https://codefling.com/uploads/monthly_2023_07/XPerienceAddon.png.3f664303ce575ab2dc9d7a4ccb72c0f8.png",
+        "documentationLink": "https://codefling.com/plugins/xperienceaddon"
+    },
+    {
+        "name": "Monuments Recycler",
+        "image": "https://assets.umod.org/images/icons/plugin/5f85a56dc4099.png",
+        "documentationLink": "https://umod.org/plugins/monuments-recycler"
+    },
+    {
+        "name": "Skip Night Vote",
+        "image": "https://assets.umod.org/images/icons/plugin/5b63bfaba17d3.jpg",
+        "documentationLink": "https://umod.org/plugins/skip-night-vote"
+    },
+    {
+        "name": "Backpacks",
+        "image": "https://assets.umod.org/images/icons/plugin/5b8b28ea9b4fd.png",
+        "documentationLink": "https://umod.org/plugins/backpacks"
+    },
+    {
+        "name": "Kill Records",
+        "image": "https://assets.umod.org/images/icons/plugin/61bb7df073978.png",
+        "documentationLink": "https://umod.org/plugins/kill-records"
+    },
+    {
+        "name": "Custom Item Drops",
+        "image": "https://codefling.com/uploads/monthly_2022_05/customitemdrops250.png.d62af5cef45d9b510b74125f55e847a7.png",
+        "documentationLink": "https://codefling.com/plugins/custom-item-drops"
+    },
+    {
+        "name": "Static Lootables",
+        "image": "https://codefling.com/uploads/monthly_2021_10/1861446195_image(66).png.218d1ac12f53cd43f82b5cd9f41d7c42.png",
+        "documentationLink": "https://codefling.com/plugins/static-lootables"
+    },
+    {
+        "name": "Raidable Bases",
+        "image": "https://codefling.com/uploads/monthly_2023_12/rb.png.aff54cb24514ec44045c8155d90a714a.png",
+        "documentationLink": "https://codefling.com/plugins/raidable-bases"
+    },
+    {
+        "name": "Server Hud",
+        "image": "https://codefling.com/uploads/monthly_2023_07/Hud.png.365307ef949db0053dd9466c4f23886d.png",
+        "documentationLink": "https://codefling.com/plugins/server-hud"
+    },
+    {
+        "name": "HeliRefuel",
+        "image": "https://chaoscode.io/data/resource_icons/0/62.jpg?1501416904",
+        "documentationLink": "https://chaoscode.io/resources/helirefuel.62/"
+    },
+    {
+        "name": "EpicLoot",
+        "image": "https://codefling.com/uploads/monthly_2022_07/new_Menu1.JPG.a5db4ff75715cb1c738ffa809d52210b.JPG",
+        "documentationLink": "https://codefling.com/plugins/epicloot"
+    },
+    {
+        "name": "Bag of Holding",
+        "image": "https://codefling.com/uploads/monthly_2022_09/BagOfHolding.png.6a248b7c1bcedbd8939a01201bbebe30.png",
+        "documentationLink": "https://codefling.com/plugins/bag-of-holding"
+    }
+
+]

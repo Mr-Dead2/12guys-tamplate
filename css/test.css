@@ -236,3 +236,66 @@ footer p {
 .doc-link:hover {
     background-color: #2980b9;
 }
+
+.card {
+    flex: 0 0 auto;
+    width: 350px; /* Card size */
+    height: 450px; /* Card size */
+    margin-right: 20px;
+    position: relative;
+    background-color: #f0f0f0; /* Fallback card background */
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1); /* Depth effect */
+}
+
+.card img {
+    width: 100%;
+    height: 100%; /* Image fills the card */
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)); /* Gradient effect */
+    z-index: 1; /* Places gradient above the image */
+}
+
+.card a {
+    position: absolute;
+    bottom: 20px; /* Space from the bottom */
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white */
+    color: #333; /* Dark text color */
+    text-decoration: none;
+    padding: 15px 30px; /* Larger padding for a bigger button */
+    border-radius: 30px; /* More rounded corners */
+    font-size: 22px; /* Larger text size */
+    font-weight: bold;
+    z-index: 2; /* Ensure the button is above the gradient */
+    transition: background-color 0.3s, transform 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+}
+
+.card a:hover {
+    background-color: rgba(255, 255, 255, 1); /* Fully opaque on hover */
+    transform: translateX(-50%) scale(1.15); /* Enlarge slightly on hover */
+}
+
+.card-slider {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    will-change: transform;
+}
+
+
+
