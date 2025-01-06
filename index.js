@@ -62,3 +62,6 @@ document.addEventListener("DOMContentLoaded", function () {
         }, 3000); // Slide every 3 seconds
     }
 });
+
+document.body.style.zoom = "0.9"; // Adjust zoom level to 90%
+
