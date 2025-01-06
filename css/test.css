@@ -15,8 +15,14 @@
     100% { box-shadow: 0 0 5px #ff4500; }
 }
 
+@media screen and (max-width: 800px) {
+  body {
+    font-size: 80%; /* Shrinks everything for smaller screens */
+  }
+}
+
+
 body {
-    width: 80%;
     margin: 0;
     font-family: 'Arial', sans-serif;
     background: linear-gradient(to top, #ffc700, #fee400, #ce422b);
