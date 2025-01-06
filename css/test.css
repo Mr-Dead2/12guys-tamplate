@@ -16,6 +16,7 @@
 }
 
 body {
+    width: 80%;
     margin: 0;
     font-family: 'Arial', sans-serif;
     background: linear-gradient(to top, #ffc700, #fee400, #ce422b);
